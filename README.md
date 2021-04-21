@@ -3,3 +3,8 @@ The purpose of this repository is to explore working with images when using Pyth
 
 - Using Pillow
 - Using Imageio
+
+
+
+
+The file `horse.jpg` is taking from https://github.com/deep-learning-with-pytorch/dlwpt-code.
